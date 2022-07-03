@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Exercise 9", "Nested Exercise 9.csproj", "{98C8202D-C0AC-466B-B40A-F247D4FBEEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C8202D-C0AC-466B-B40A-F247D4FBEEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C8202D-C0AC-466B-B40A-F247D4FBEEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C8202D-C0AC-466B-B40A-F247D4FBEEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C8202D-C0AC-466B-B40A-F247D4FBEEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966546B9-0B1F-4C1B-AC73-68D0872D2519}
+	EndGlobalSection
+EndGlobal

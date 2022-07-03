@@ -1,0 +1,13 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\bin\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 7\DoWhileLoopExercise02 new\obj\Debug\netcoreapp3.1\DoWhileLoopExercise02 new.genruntimeconfig.cache

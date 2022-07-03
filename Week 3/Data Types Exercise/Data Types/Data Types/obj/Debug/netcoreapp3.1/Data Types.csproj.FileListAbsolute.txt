@@ -1,0 +1,14 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\bin\Debug\netcoreapp3.1\Data Types.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.AssemblyReference.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 3\Data Types Exercise\Data Types\Data Types\obj\Debug\netcoreapp3.1\Data Types.genruntimeconfig.cache

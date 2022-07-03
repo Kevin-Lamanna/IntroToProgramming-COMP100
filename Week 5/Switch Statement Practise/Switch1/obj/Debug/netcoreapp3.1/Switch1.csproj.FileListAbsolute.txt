@@ -1,0 +1,14 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\bin\Debug\netcoreapp3.1\Switch1.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.csproj.AssemblyReference.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Switch Statement Practise\Switch1\obj\Debug\netcoreapp3.1\Switch1.genruntimeconfig.cache

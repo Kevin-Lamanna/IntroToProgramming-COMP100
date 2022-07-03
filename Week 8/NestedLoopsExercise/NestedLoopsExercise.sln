@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsExercise", "NestedLoopsExercise.csproj", "{C5A9BF3F-59DD-4F13-9912-F49435A90FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A9BF3F-59DD-4F13-9912-F49435A90FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A9BF3F-59DD-4F13-9912-F49435A90FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A9BF3F-59DD-4F13-9912-F49435A90FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A9BF3F-59DD-4F13-9912-F49435A90FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2F5AA2-11FF-421E-A034-E5D3A7DD977C}
+	EndGlobalSection
+EndGlobal

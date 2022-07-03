@@ -1,0 +1,14 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\bin\Debug\netcoreapp3.1\Nested Exercise 10.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.csproj.AssemblyReference.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 10\obj\Debug\netcoreapp3.1\Nested Exercise 10.genruntimeconfig.cache

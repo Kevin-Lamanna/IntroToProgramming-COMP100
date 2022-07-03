@@ -1,0 +1,13 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\bin\Debug\netcoreapp3.1\Nested Exercise 9.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 6\Nested Exercise 9\obj\Debug\netcoreapp3.1\Nested Exercise 9.genruntimeconfig.cache

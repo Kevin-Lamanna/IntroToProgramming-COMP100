@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FixedDebugTwo3/1.0.0": {
+        "runtime": {
+          "FixedDebugTwo3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixedDebugTwo3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

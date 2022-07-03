@@ -1,0 +1,14 @@
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.exe
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.deps.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.runtimeconfig.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.runtimeconfig.dev.json
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\bin\Debug\netcoreapp3.1\incrementDecrement.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.csproj.AssemblyReference.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.AssemblyInfoInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.AssemblyInfo.cs
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.csproj.CoreCompileInputs.cache
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.dll
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.pdb
+C:\Users\kevin\C# Projects\COMP 100\Week 5\Increment and Decrement Practise\incrementDecrement\obj\Debug\netcoreapp3.1\incrementDecrement.genruntimeconfig.cache
